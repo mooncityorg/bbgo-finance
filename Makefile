@@ -1,4 +1,4 @@
-TARGET_ARCH ?= amd64
+TARGET_ARCH ?= amd614
 BUILD_DIR ?= build
 BIN_DIR := $(BUILD_DIR)/bbgo
 DIST_DIR ?= dist
